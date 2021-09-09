@@ -1,0 +1,68 @@
+html body {
+  background-color: #2d2d2d;
+}
+.srow {
+  margin-left: 0;
+  margin-right: 0;
+}
+.neomorphism {
+  border-radius: 27px;
+  background: #2d2d2d;
+  box-shadow: 5px 5px 6px #262626, -5px -5px 6px #343434;
+}
+.logo-img {
+  width: 140px;
+}
+.simple-text {
+  font-size: 24px;
+  color: white;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+.identity-logo {
+  width: 80px;
+}
+.hover:hover {
+  border-radius: 27px;
+  background: #2d2d2d;
+  box-shadow: 5px 5px 6px #262626, -5px -5px 6px #343434;
+}
+.heading {
+  color: #ffffff;
+  font-size: 34px;
+  font-weight: 700;
+}
+.btn {
+  color: #ffffff;
+}
+.card-bg {
+  background-color: #bfbfbf;
+  border-radius: 15px;
+}
+.card-text1 {
+  font-size: 18px;
+  color: black;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+.arrow {
+  width: 50px;
+}
+.card-text2 {
+  font-size: 18px;
+  color: white;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+.heading1 {
+  color: white;
+}
+.card-img1 {
+  width: 70px;
+}
+.card-text3 {
+  font-size: 12px;
+  color: black;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
